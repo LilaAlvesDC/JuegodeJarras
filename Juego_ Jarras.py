@@ -67,7 +67,6 @@ class Jarra:
             self.vaciar()
 
 # 1.1 Instanciamos el objeto 
-
 Jarra5ltr = Jarra(5)
 Jarra3ltr = Jarra(3)
 
@@ -133,14 +132,3 @@ while opcion != 7:
     print("Tus intentos son: ", Contador)
 print("!Fin del juego!❤️  Vuelve pronto")
 print("-----------------------------------------")
-
-# 3. Imprimir el resultado 
-
-
-
-
-
-
-
-# Jarra de 5 litros con 2 de contenido 
-# print('|  |\n|  |\n|  |\n|**|\n|**|\nTTTT')
